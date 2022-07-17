@@ -21,3 +21,7 @@ so the provided structure and style will probably be shit. The first found match
  * addContext(stringfromwebsite)
     - This allows you to enter a large chunk of string from the website to act as a search substring, to help you highlight the correct string. 
     -  **DO NOT USE. BROKEN and NOT DEBUGGED FOR THIS GENERAL TASK (You are welcome to though): **
+
+ 
+ Disclaimer:
+I do not code Javascript, so much of this might be very poorly written and inefficient. But whatever. :)
